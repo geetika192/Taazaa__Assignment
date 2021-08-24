@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\bin\Debug\net5.0\Value type.exe
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\bin\Debug\net5.0\Value type.deps.json
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\bin\Debug\net5.0\Value type.runtimeconfig.json
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\bin\Debug\net5.0\Value type.runtimeconfig.dev.json
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\bin\Debug\net5.0\Value type.dll
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\bin\Debug\net5.0\ref\Value type.dll
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\bin\Debug\net5.0\Value type.pdb
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\obj\Debug\net5.0\Value type.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\obj\Debug\net5.0\Value type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\obj\Debug\net5.0\Value type.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\obj\Debug\net5.0\Value type.AssemblyInfo.cs
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\obj\Debug\net5.0\Value type.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\obj\Debug\net5.0\Value type.dll
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\obj\Debug\net5.0\ref\Value type.dll
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\obj\Debug\net5.0\Value type.pdb
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Value type\obj\Debug\net5.0\Value type.genruntimeconfig.cache

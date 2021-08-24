@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\obj\Debug\net5.0\Reference Type.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\obj\Debug\net5.0\Reference Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\obj\Debug\net5.0\Reference Type.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\obj\Debug\net5.0\Reference Type.AssemblyInfo.cs
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\obj\Debug\net5.0\Reference Type.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\bin\Debug\net5.0\Reference Type.exe
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\bin\Debug\net5.0\Reference Type.deps.json
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\bin\Debug\net5.0\Reference Type.runtimeconfig.json
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\bin\Debug\net5.0\Reference Type.runtimeconfig.dev.json
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\bin\Debug\net5.0\Reference Type.dll
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\bin\Debug\net5.0\ref\Reference Type.dll
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\bin\Debug\net5.0\Reference Type.pdb
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\obj\Debug\net5.0\Reference Type.dll
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\obj\Debug\net5.0\ref\Reference Type.dll
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\obj\Debug\net5.0\Reference Type.pdb
+C:\Users\GEETIKA\taazaa Traning\day3Assignment\value type and ref type\Reference Type\obj\Debug\net5.0\Reference Type.genruntimeconfig.cache
