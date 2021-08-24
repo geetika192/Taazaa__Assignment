@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\bin\Debug\net5.0\privateConstructor.exe
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\bin\Debug\net5.0\privateConstructor.deps.json
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\bin\Debug\net5.0\privateConstructor.runtimeconfig.json
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\bin\Debug\net5.0\privateConstructor.runtimeconfig.dev.json
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\bin\Debug\net5.0\privateConstructor.dll
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\bin\Debug\net5.0\ref\privateConstructor.dll
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\bin\Debug\net5.0\privateConstructor.pdb
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\obj\Debug\net5.0\privateConstructor.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\obj\Debug\net5.0\privateConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\obj\Debug\net5.0\privateConstructor.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\obj\Debug\net5.0\privateConstructor.AssemblyInfo.cs
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\obj\Debug\net5.0\privateConstructor.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\obj\Debug\net5.0\privateConstructor.dll
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\obj\Debug\net5.0\ref\privateConstructor.dll
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\obj\Debug\net5.0\privateConstructor.pdb
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\privateConstructor\obj\Debug\net5.0\privateConstructor.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\bin\Debug\net5.0\Dictinonary.exe
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\bin\Debug\net5.0\Dictinonary.deps.json
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\bin\Debug\net5.0\Dictinonary.runtimeconfig.json
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\bin\Debug\net5.0\Dictinonary.runtimeconfig.dev.json
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\bin\Debug\net5.0\Dictinonary.dll
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\bin\Debug\net5.0\ref\Dictinonary.dll
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\bin\Debug\net5.0\Dictinonary.pdb
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\obj\Debug\net5.0\Dictinonary.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\obj\Debug\net5.0\Dictinonary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\obj\Debug\net5.0\Dictinonary.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\obj\Debug\net5.0\Dictinonary.AssemblyInfo.cs
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\obj\Debug\net5.0\Dictinonary.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\obj\Debug\net5.0\Dictinonary.dll
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\obj\Debug\net5.0\ref\Dictinonary.dll
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\obj\Debug\net5.0\Dictinonary.pdb
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\Dictinonary\obj\Debug\net5.0\Dictinonary.genruntimeconfig.cache

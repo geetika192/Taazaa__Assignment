@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\bin\Debug\net5.0\hashtable.exe
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\bin\Debug\net5.0\hashtable.deps.json
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\bin\Debug\net5.0\hashtable.runtimeconfig.json
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\bin\Debug\net5.0\hashtable.runtimeconfig.dev.json
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\bin\Debug\net5.0\hashtable.dll
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\bin\Debug\net5.0\ref\hashtable.dll
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\bin\Debug\net5.0\hashtable.pdb
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\obj\Debug\net5.0\hashtable.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\obj\Debug\net5.0\hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\obj\Debug\net5.0\hashtable.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\obj\Debug\net5.0\hashtable.AssemblyInfo.cs
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\obj\Debug\net5.0\hashtable.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\obj\Debug\net5.0\hashtable.dll
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\obj\Debug\net5.0\ref\hashtable.dll
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\obj\Debug\net5.0\hashtable.pdb
+C:\Users\GEETIKA\taazaa Traning\day5Assignment\hashtable\obj\Debug\net5.0\hashtable.genruntimeconfig.cache
