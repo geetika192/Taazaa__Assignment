@@ -1,0 +1,32 @@
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ListAssignmentP.exe
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ListAssignmentP.deps.json
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ListAssignmentP.runtimeconfig.json
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ListAssignmentP.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ListAssignmentP.dll
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ref\ListAssignmentP.dll
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ListAssignmentP.pdb
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.AssemblyInfo.cs
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.dll
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ref\ListAssignmentP.dll
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.pdb
+C:\Users\HP\Desktop\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.genruntimeconfig.cache
+E:\taazaa Traning\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ListAssignmentP.exe
+E:\taazaa Traning\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ListAssignmentP.deps.json
+E:\taazaa Traning\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ListAssignmentP.runtimeconfig.json
+E:\taazaa Traning\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ListAssignmentP.runtimeconfig.dev.json
+E:\taazaa Traning\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ListAssignmentP.dll
+E:\taazaa Traning\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ref\ListAssignmentP.dll
+E:\taazaa Traning\Assignment 7\ListAssignmentP\bin\Debug\net5.0\ListAssignmentP.pdb
+E:\taazaa Traning\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.csproj.AssemblyReference.cache
+E:\taazaa Traning\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.GeneratedMSBuildEditorConfig.editorconfig
+E:\taazaa Traning\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.AssemblyInfoInputs.cache
+E:\taazaa Traning\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.AssemblyInfo.cs
+E:\taazaa Traning\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.csproj.CoreCompileInputs.cache
+E:\taazaa Traning\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.dll
+E:\taazaa Traning\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ref\ListAssignmentP.dll
+E:\taazaa Traning\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.pdb
+E:\taazaa Traning\Assignment 7\ListAssignmentP\obj\Debug\net5.0\ListAssignmentP.genruntimeconfig.cache
