@@ -1,0 +1,32 @@
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\bin\Debug\net5.0\Predicate_Deleg.exe
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\bin\Debug\net5.0\Predicate_Deleg.deps.json
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\bin\Debug\net5.0\Predicate_Deleg.runtimeconfig.json
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\bin\Debug\net5.0\Predicate_Deleg.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\bin\Debug\net5.0\Predicate_Deleg.dll
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\bin\Debug\net5.0\ref\Predicate_Deleg.dll
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\bin\Debug\net5.0\Predicate_Deleg.pdb
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.AssemblyInfo.cs
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.dll
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\obj\Debug\net5.0\ref\Predicate_Deleg.dll
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.pdb
+C:\Users\HP\Desktop\Assignment9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.genruntimeconfig.cache
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\bin\Debug\net5.0\Predicate_Deleg.exe
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\bin\Debug\net5.0\Predicate_Deleg.deps.json
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\bin\Debug\net5.0\Predicate_Deleg.runtimeconfig.json
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\bin\Debug\net5.0\Predicate_Deleg.runtimeconfig.dev.json
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\bin\Debug\net5.0\Predicate_Deleg.dll
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\bin\Debug\net5.0\ref\Predicate_Deleg.dll
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\bin\Debug\net5.0\Predicate_Deleg.pdb
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.csproj.AssemblyReference.cache
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.GeneratedMSBuildEditorConfig.editorconfig
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.AssemblyInfoInputs.cache
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.AssemblyInfo.cs
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.csproj.CoreCompileInputs.cache
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.dll
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\obj\Debug\net5.0\ref\Predicate_Deleg.dll
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.pdb
+E:\taazaa Traning\Assignment 9\Predicate_Deleg\obj\Debug\net5.0\Predicate_Deleg.genruntimeconfig.cache

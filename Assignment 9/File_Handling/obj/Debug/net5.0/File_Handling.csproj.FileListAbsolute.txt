@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Assignment9\File_Handling\bin\Debug\net5.0\File_Handling.exe
+C:\Users\HP\Desktop\Assignment9\File_Handling\bin\Debug\net5.0\File_Handling.deps.json
+C:\Users\HP\Desktop\Assignment9\File_Handling\bin\Debug\net5.0\File_Handling.runtimeconfig.json
+C:\Users\HP\Desktop\Assignment9\File_Handling\bin\Debug\net5.0\File_Handling.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Assignment9\File_Handling\bin\Debug\net5.0\File_Handling.dll
+C:\Users\HP\Desktop\Assignment9\File_Handling\bin\Debug\net5.0\ref\File_Handling.dll
+C:\Users\HP\Desktop\Assignment9\File_Handling\bin\Debug\net5.0\File_Handling.pdb
+C:\Users\HP\Desktop\Assignment9\File_Handling\obj\Debug\net5.0\File_Handling.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Assignment9\File_Handling\obj\Debug\net5.0\File_Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Assignment9\File_Handling\obj\Debug\net5.0\File_Handling.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Assignment9\File_Handling\obj\Debug\net5.0\File_Handling.AssemblyInfo.cs
+C:\Users\HP\Desktop\Assignment9\File_Handling\obj\Debug\net5.0\File_Handling.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Assignment9\File_Handling\obj\Debug\net5.0\File_Handling.dll
+C:\Users\HP\Desktop\Assignment9\File_Handling\obj\Debug\net5.0\ref\File_Handling.dll
+C:\Users\HP\Desktop\Assignment9\File_Handling\obj\Debug\net5.0\File_Handling.pdb
+C:\Users\HP\Desktop\Assignment9\File_Handling\obj\Debug\net5.0\File_Handling.genruntimeconfig.cache

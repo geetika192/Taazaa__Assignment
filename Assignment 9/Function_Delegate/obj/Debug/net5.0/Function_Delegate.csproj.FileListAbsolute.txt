@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\bin\Debug\net5.0\Function_Delegate.exe
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\bin\Debug\net5.0\Function_Delegate.deps.json
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\bin\Debug\net5.0\Function_Delegate.runtimeconfig.json
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\bin\Debug\net5.0\Function_Delegate.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\bin\Debug\net5.0\Function_Delegate.dll
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\bin\Debug\net5.0\ref\Function_Delegate.dll
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\bin\Debug\net5.0\Function_Delegate.pdb
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\obj\Debug\net5.0\Function_Delegate.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\obj\Debug\net5.0\Function_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\obj\Debug\net5.0\Function_Delegate.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\obj\Debug\net5.0\Function_Delegate.AssemblyInfo.cs
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\obj\Debug\net5.0\Function_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\obj\Debug\net5.0\Function_Delegate.dll
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\obj\Debug\net5.0\ref\Function_Delegate.dll
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\obj\Debug\net5.0\Function_Delegate.pdb
+C:\Users\HP\Desktop\Assignment9\Function_Delegate\obj\Debug\net5.0\Function_Delegate.genruntimeconfig.cache
