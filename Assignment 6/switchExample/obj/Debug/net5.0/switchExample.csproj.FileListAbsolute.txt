@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\obj\Debug\net5.0\switchExample.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\obj\Debug\net5.0\switchExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\obj\Debug\net5.0\switchExample.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\obj\Debug\net5.0\switchExample.AssemblyInfo.cs
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\obj\Debug\net5.0\switchExample.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\bin\Debug\net5.0\switchExample.exe
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\bin\Debug\net5.0\switchExample.deps.json
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\bin\Debug\net5.0\switchExample.runtimeconfig.json
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\bin\Debug\net5.0\switchExample.runtimeconfig.dev.json
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\bin\Debug\net5.0\switchExample.dll
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\bin\Debug\net5.0\ref\switchExample.dll
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\bin\Debug\net5.0\switchExample.pdb
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\obj\Debug\net5.0\switchExample.dll
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\obj\Debug\net5.0\ref\switchExample.dll
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\obj\Debug\net5.0\switchExample.pdb
+C:\Users\GEETIKA\taazaa Traning\day6Assignment\switchExample\obj\Debug\net5.0\switchExample.genruntimeconfig.cache
