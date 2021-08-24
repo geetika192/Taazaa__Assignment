@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\bin\Debug\net5.0\verbatim string.exe
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\bin\Debug\net5.0\verbatim string.deps.json
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\bin\Debug\net5.0\verbatim string.runtimeconfig.json
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\bin\Debug\net5.0\verbatim string.runtimeconfig.dev.json
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\bin\Debug\net5.0\verbatim string.dll
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\bin\Debug\net5.0\ref\verbatim string.dll
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\bin\Debug\net5.0\verbatim string.pdb
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\obj\Debug\net5.0\verbatim string.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\obj\Debug\net5.0\verbatim string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\obj\Debug\net5.0\verbatim string.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\obj\Debug\net5.0\verbatim string.AssemblyInfo.cs
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\obj\Debug\net5.0\verbatim string.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\obj\Debug\net5.0\verbatim string.dll
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\obj\Debug\net5.0\ref\verbatim string.dll
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\obj\Debug\net5.0\verbatim string.pdb
+C:\Users\GEETIKA\Desktop\assignemt\verbatim string\obj\Debug\net5.0\verbatim string.genruntimeconfig.cache

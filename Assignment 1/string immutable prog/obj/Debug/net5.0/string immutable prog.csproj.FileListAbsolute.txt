@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\bin\Debug\net5.0\string immutable prog.exe
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\bin\Debug\net5.0\string immutable prog.deps.json
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\bin\Debug\net5.0\string immutable prog.runtimeconfig.json
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\bin\Debug\net5.0\string immutable prog.runtimeconfig.dev.json
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\bin\Debug\net5.0\string immutable prog.dll
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\bin\Debug\net5.0\ref\string immutable prog.dll
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\bin\Debug\net5.0\string immutable prog.pdb
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\obj\Debug\net5.0\string immutable prog.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\obj\Debug\net5.0\string immutable prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\obj\Debug\net5.0\string immutable prog.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\obj\Debug\net5.0\string immutable prog.AssemblyInfo.cs
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\obj\Debug\net5.0\string immutable prog.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\obj\Debug\net5.0\string immutable prog.dll
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\obj\Debug\net5.0\ref\string immutable prog.dll
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\obj\Debug\net5.0\string immutable prog.pdb
+C:\Users\GEETIKA\Desktop\assignemt\string immutable prog\obj\Debug\net5.0\string immutable prog.genruntimeconfig.cache

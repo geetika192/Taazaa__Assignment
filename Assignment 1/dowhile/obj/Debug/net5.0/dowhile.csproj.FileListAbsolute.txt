@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\obj\Debug\net5.0\dowhile.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\obj\Debug\net5.0\dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\obj\Debug\net5.0\dowhile.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\obj\Debug\net5.0\dowhile.AssemblyInfo.cs
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\obj\Debug\net5.0\dowhile.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\bin\Debug\net5.0\dowhile.exe
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\bin\Debug\net5.0\dowhile.deps.json
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\bin\Debug\net5.0\dowhile.runtimeconfig.json
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\bin\Debug\net5.0\dowhile.runtimeconfig.dev.json
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\bin\Debug\net5.0\dowhile.dll
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\bin\Debug\net5.0\ref\dowhile.dll
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\bin\Debug\net5.0\dowhile.pdb
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\obj\Debug\net5.0\dowhile.dll
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\obj\Debug\net5.0\ref\dowhile.dll
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\obj\Debug\net5.0\dowhile.pdb
+C:\Users\GEETIKA\Desktop\assignemt\dowhile\obj\Debug\net5.0\dowhile.genruntimeconfig.cache

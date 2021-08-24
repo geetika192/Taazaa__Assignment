@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\Desktop\assignemt\string method\bin\Debug\net5.0\string method.exe
+C:\Users\GEETIKA\Desktop\assignemt\string method\bin\Debug\net5.0\string method.deps.json
+C:\Users\GEETIKA\Desktop\assignemt\string method\bin\Debug\net5.0\string method.runtimeconfig.json
+C:\Users\GEETIKA\Desktop\assignemt\string method\bin\Debug\net5.0\string method.runtimeconfig.dev.json
+C:\Users\GEETIKA\Desktop\assignemt\string method\bin\Debug\net5.0\string method.dll
+C:\Users\GEETIKA\Desktop\assignemt\string method\bin\Debug\net5.0\ref\string method.dll
+C:\Users\GEETIKA\Desktop\assignemt\string method\bin\Debug\net5.0\string method.pdb
+C:\Users\GEETIKA\Desktop\assignemt\string method\obj\Debug\net5.0\string method.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\Desktop\assignemt\string method\obj\Debug\net5.0\string method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\Desktop\assignemt\string method\obj\Debug\net5.0\string method.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\Desktop\assignemt\string method\obj\Debug\net5.0\string method.AssemblyInfo.cs
+C:\Users\GEETIKA\Desktop\assignemt\string method\obj\Debug\net5.0\string method.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\Desktop\assignemt\string method\obj\Debug\net5.0\string method.dll
+C:\Users\GEETIKA\Desktop\assignemt\string method\obj\Debug\net5.0\ref\string method.dll
+C:\Users\GEETIKA\Desktop\assignemt\string method\obj\Debug\net5.0\string method.pdb
+C:\Users\GEETIKA\Desktop\assignemt\string method\obj\Debug\net5.0\string method.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\Desktop\assignemt\foreach\bin\Debug\net5.0\foreach.exe
+C:\Users\GEETIKA\Desktop\assignemt\foreach\bin\Debug\net5.0\foreach.deps.json
+C:\Users\GEETIKA\Desktop\assignemt\foreach\bin\Debug\net5.0\foreach.runtimeconfig.json
+C:\Users\GEETIKA\Desktop\assignemt\foreach\bin\Debug\net5.0\foreach.runtimeconfig.dev.json
+C:\Users\GEETIKA\Desktop\assignemt\foreach\bin\Debug\net5.0\foreach.dll
+C:\Users\GEETIKA\Desktop\assignemt\foreach\bin\Debug\net5.0\ref\foreach.dll
+C:\Users\GEETIKA\Desktop\assignemt\foreach\bin\Debug\net5.0\foreach.pdb
+C:\Users\GEETIKA\Desktop\assignemt\foreach\obj\Debug\net5.0\foreach.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\Desktop\assignemt\foreach\obj\Debug\net5.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\Desktop\assignemt\foreach\obj\Debug\net5.0\foreach.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\Desktop\assignemt\foreach\obj\Debug\net5.0\foreach.AssemblyInfo.cs
+C:\Users\GEETIKA\Desktop\assignemt\foreach\obj\Debug\net5.0\foreach.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\Desktop\assignemt\foreach\obj\Debug\net5.0\foreach.dll
+C:\Users\GEETIKA\Desktop\assignemt\foreach\obj\Debug\net5.0\ref\foreach.dll
+C:\Users\GEETIKA\Desktop\assignemt\foreach\obj\Debug\net5.0\foreach.pdb
+C:\Users\GEETIKA\Desktop\assignemt\foreach\obj\Debug\net5.0\foreach.genruntimeconfig.cache

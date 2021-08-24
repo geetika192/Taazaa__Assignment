@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\bin\Debug\net5.0\string mutuable.exe
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\bin\Debug\net5.0\string mutuable.deps.json
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\bin\Debug\net5.0\string mutuable.runtimeconfig.json
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\bin\Debug\net5.0\string mutuable.runtimeconfig.dev.json
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\bin\Debug\net5.0\string mutuable.dll
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\bin\Debug\net5.0\ref\string mutuable.dll
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\bin\Debug\net5.0\string mutuable.pdb
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\obj\Debug\net5.0\string mutuable.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\obj\Debug\net5.0\string mutuable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\obj\Debug\net5.0\string mutuable.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\obj\Debug\net5.0\string mutuable.AssemblyInfo.cs
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\obj\Debug\net5.0\string mutuable.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\obj\Debug\net5.0\string mutuable.dll
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\obj\Debug\net5.0\ref\string mutuable.dll
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\obj\Debug\net5.0\string mutuable.pdb
+C:\Users\GEETIKA\Desktop\assignemt\string mutuable\obj\Debug\net5.0\string mutuable.genruntimeconfig.cache
