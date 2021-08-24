@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\bin\Debug\net5.0\Interface2.exe
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\bin\Debug\net5.0\Interface2.deps.json
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\bin\Debug\net5.0\Interface2.runtimeconfig.json
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\bin\Debug\net5.0\Interface2.runtimeconfig.dev.json
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\bin\Debug\net5.0\Interface2.dll
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\bin\Debug\net5.0\ref\Interface2.dll
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\bin\Debug\net5.0\Interface2.pdb
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\obj\Debug\net5.0\Interface2.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\obj\Debug\net5.0\Interface2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\obj\Debug\net5.0\Interface2.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\obj\Debug\net5.0\Interface2.AssemblyInfo.cs
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\obj\Debug\net5.0\Interface2.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\obj\Debug\net5.0\Interface2.dll
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\obj\Debug\net5.0\ref\Interface2.dll
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\obj\Debug\net5.0\Interface2.pdb
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\Interface\Interface2\obj\Debug\net5.0\Interface2.genruntimeconfig.cache

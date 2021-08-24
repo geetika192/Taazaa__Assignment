@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\bin\Debug\net5.0\abstract1.exe
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\bin\Debug\net5.0\abstract1.deps.json
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\bin\Debug\net5.0\abstract1.runtimeconfig.json
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\bin\Debug\net5.0\abstract1.runtimeconfig.dev.json
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\bin\Debug\net5.0\abstract1.dll
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\bin\Debug\net5.0\ref\abstract1.dll
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\bin\Debug\net5.0\abstract1.pdb
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\obj\Debug\net5.0\abstract1.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\obj\Debug\net5.0\abstract1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\obj\Debug\net5.0\abstract1.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\obj\Debug\net5.0\abstract1.AssemblyInfo.cs
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\obj\Debug\net5.0\abstract1.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\obj\Debug\net5.0\abstract1.dll
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\obj\Debug\net5.0\ref\abstract1.dll
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\obj\Debug\net5.0\abstract1.pdb
+C:\Users\GEETIKA\taazaa Traning\day4assignemt\abstract\abstract1\obj\Debug\net5.0\abstract1.genruntimeconfig.cache
