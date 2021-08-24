@@ -1,0 +1,32 @@
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\AdvanceDeligate.exe
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\AdvanceDeligate.deps.json
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\AdvanceDeligate.runtimeconfig.json
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\AdvanceDeligate.runtimeconfig.dev.json
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\AdvanceDeligate.dll
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\ref\AdvanceDeligate.dll
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\AdvanceDeligate.pdb
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.csproj.AssemblyReference.cache
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.AssemblyInfoInputs.cache
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.AssemblyInfo.cs
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.csproj.CoreCompileInputs.cache
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.dll
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\ref\AdvanceDeligate.dll
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.pdb
+C:\TaazaaAssignment\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.genruntimeconfig.cache
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\AdvanceDeligate.exe
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\AdvanceDeligate.deps.json
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\AdvanceDeligate.runtimeconfig.json
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\AdvanceDeligate.runtimeconfig.dev.json
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\AdvanceDeligate.dll
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\ref\AdvanceDeligate.dll
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\bin\Debug\net5.0\AdvanceDeligate.pdb
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.csproj.AssemblyReference.cache
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.GeneratedMSBuildEditorConfig.editorconfig
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.AssemblyInfoInputs.cache
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.AssemblyInfo.cs
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.csproj.CoreCompileInputs.cache
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.dll
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\ref\AdvanceDeligate.dll
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.pdb
+E:\taazaa Traning\Assignment 8\AdvanceDeligate\obj\Debug\net5.0\AdvanceDeligate.genruntimeconfig.cache
