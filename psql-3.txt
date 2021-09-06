@@ -1,0 +1,78 @@
+27-08-2021 
+link 1:-https://www.postgresqltutorial.com/plpgsql-variables/
+link 2:- https://www.techonthenet.com/postgresql/declare_vars.php#:~:text=The%20syntax%20to%20declare%20a%20variable%20in%20PostgreSQL,The%20datatype%20to%20assign%20to%20the%20variable.%20Optional.
+link:- https://www.geeksforgeeks.org/postgresql-for-loops/
+-----------------------------------------------------------------------------------------
+Q.How to Declare a variable in database?
+
+Ans:-In PostgreSQL, a variable allows a programmer to store data temporarily during the execution of code.
+
+The syntax to declare a variable in PostgreSQL is:
+
+do $$ 
+declare
+   counter    integer := 1;
+   first_name varchar(50) := 'John';
+   last_name  varchar(50) := 'Doe';
+   payment    numeric(11,2) := 20.5;
+begin 
+   raise notice '% % % has been paid % USD', 
+       counter, 
+	   first_name, 
+	   last_name, 
+	   payment;
+end $$;
+
+Example:geetika=# do $$
+geetika$# declare
+geetika$#    id    integer := 1;
+geetika$#    name varchar(50) := 'John';
+geetika$#    age numeric(2) := 22;
+geetika$#
+geetika$# begin
+geetika$#    raise notice '% % %' ,
+geetika$#            id,
+geetika$#    name,
+geetika$#    age;
+geetika$# end $$;
+NOTICE:  1 John 22
+DO  
+____________________________________________________
+Ques:How to apply loop?
+Ans:-
+syntax:-
+do $$
+begin
+   for cnt in 1..10 loop
+    raise notice 'cnt: %', cnt;
+   end loop;
+end; $$;
+
+Example 1)
+do $$
+begin
+   for cnt in reverse 10..1 loop
+      raise notice 'cnt: %', cnt;
+   end loop;
+end; $$;
+___________________________________________________
+
+how to apply break?
+Ans-EXIT terminates the loop.
+syntax
+for()
+ {
+ for()
+ {
+  if(somecondition)
+  break;
+ }
+}
+
+Example:
+
+____________________________________________________
+how to apply continue?
+how to apply switch?
+how to apply if-else?
+howto use begin-end?

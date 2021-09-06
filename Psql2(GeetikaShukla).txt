@@ -1,0 +1,63 @@
+CREATE TABLE Employee (
+	eno int generated always as identity,
+	ename VARCHAR ( 50 )  NOT NULL,
+	Address VARCHAR ( 50 ) NOT NULL
+         );
+
+CREATE TABLE Department (
+	eno int generated always as identity,
+	dname VARCHAR ( 50 )  NOT NULL,
+	name VARCHAR ( 50 ) NOT NULL
+        );
+
+INSERT INTO Employee(ename,address) VALUES ('RAM','Delhi');
+INSERT INTO Employee(ename,address) VALUES ('Varun','Chd');
+INSERT INTO Employee(ename,address) VALUES ('Ravi','Chd');
+INSERT INTO Employee(ename,address) VALUES ('Amrit','Delhi');
+INSERT INTO Employee(ename,address) VALUES ('Nitin','Noida');
+
+
+INSERT INTO Department(dname,name) VALUES ('D1','HR');
+INSERT INTO Department(dname,name) VALUES ('D2','IT');
+INSERT INTO Department(dname,name) VALUES ('D3','MRKT');
+INSERT INTO Department(dname,name) VALUES ('D4','Finance');
+
+
+
+1)INNER JOIN
+a)SELECT ename, address,name FROM Employee INNER JOIN department ON Employee.eno= department.eno; 
+
+
+2)CROSS JOIN
+a)SELECT * FROM Employee CROSS JOIN Department ;
+or
+b)SELECT * FROM Department CROSS JOIN Employee ;  
+
+
+3)UNION OF TABLES
+a)SELECT * FROM Employee UNION SELECT * FROM Department;
+
+
+4)INTERSECT OF TABLES
+a)SELECT * FROM Employee INTERSECT SELECT * FROM Department;
+
+5)LEFT OUTER JOIN
+a)SELECT ename FROM Employee LEFT OUTER JOIN Department ON Employee.eno = Department.eno;
+
+6)RIGHT OUTER JOIN
+a)SELECT ename FROM Employee RIGHT OUTER JOIN Department ON Employee.eno = Department.eno;
+
+7)FULL OUTER JOIN
+a)SELECT ename FROM Employee FULL OUTER JOIN Department ON Employee.eno = Department.eno;
+
+8)SELF JOIN
+
+
+
+
+
+9)CREATE VIEW
+a)CREATE VIEW Employe_View AS SELECT eno,ename FROM  Employee;
+
+10)DROP VIEW
+a)DROP VIEW Employe_View;

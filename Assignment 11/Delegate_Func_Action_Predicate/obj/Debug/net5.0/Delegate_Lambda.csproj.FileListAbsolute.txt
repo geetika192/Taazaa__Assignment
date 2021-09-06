@@ -1,0 +1,16 @@
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\bin\Debug\net5.0\Delegate_Lambda.exe
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\bin\Debug\net5.0\Delegate_Lambda.deps.json
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\bin\Debug\net5.0\Delegate_Lambda.runtimeconfig.json
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\bin\Debug\net5.0\Delegate_Lambda.runtimeconfig.dev.json
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\bin\Debug\net5.0\Delegate_Lambda.dll
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\bin\Debug\net5.0\ref\Delegate_Lambda.dll
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\bin\Debug\net5.0\Delegate_Lambda.pdb
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\obj\Debug\net5.0\Delegate_Lambda.csproj.AssemblyReference.cache
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\obj\Debug\net5.0\Delegate_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\obj\Debug\net5.0\Delegate_Lambda.AssemblyInfoInputs.cache
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\obj\Debug\net5.0\Delegate_Lambda.AssemblyInfo.cs
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\obj\Debug\net5.0\Delegate_Lambda.csproj.CoreCompileInputs.cache
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\obj\Debug\net5.0\Delegate_Lambda.dll
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\obj\Debug\net5.0\ref\Delegate_Lambda.dll
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\obj\Debug\net5.0\Delegate_Lambda.pdb
+E:\Taazaa__Assignments\Assignment 11\Delegate_Lambda\obj\Debug\net5.0\Delegate_Lambda.genruntimeconfig.cache

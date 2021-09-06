@@ -1,0 +1,393 @@
+
+DATE , ARRAY , SMALLINT ,TIME ,CHAR , NUMERIC DATATYPE 
+1) Update-In PostgreSQL, the UPDATE command is used to change the present records in a table. To update the selected rows, we have to use the WHERE clause; otherwise, all rows would be updated.
+
+Syntax to update command-
+
+UPDATE table_name    
+SET column1 = value1,   
+column2 = value2....,   
+columnN = valueN    
+WHERE   
+condition; 
+
+Example:geetika=# update taazatraining set name='Divya' where id=1;
+        UPDATE 1
+  
+2) Delete-The DELETE command is used to delete all existing records from a table. And the WHERE clause is used to remove the selected records or else, all the data would be eliminated.
+
+Syntax to Delete command-
+
+DELETE FROM table_name    
+WHERE [condition];  
+
+Example:geetika=# delete from taazatraining where id=2;
+DELETE 1
+geetika=# select * from taazatraining;
+ id | name  | address | age
+----+-------+---------+-----
+  1 | Divya | sitapur |  20
+  3 | Divya | Bihar   |  20
+(2 rows)
+
+
+3) Where-The WHERE condition is used to describe a condition while we get data from a table or a Join various tables. It is commonly used with SELECT, UPDATE, and DELETE commands to filter the output. It returns the exact result only when the condition is fulfilled.
+
+The syntax of PostgreSQL WHERE clause
+
+SELECT column1, column2, ..... columnN    
+FROM table_name    
+WHERE [search_condition]    
+ORDER BY sort_expression 
+
+4) Order by-the PostgreSQL ORDER BY condition, which is used for sorting data in ascending or descending order. And the records are fetched on the basis of one or more columns.When fetching the records from a table, the SELECT command returns rows in an undetermined order. For this, we will use the ORDER BY clause in the SELECT statement for sorting the rows of the result set.
+The ORDER BY clause permits us to sort rows returned by a SELECT condition in ascending or descending order depends on the sort expression.
+
+The syntax of PostgreSQL Order by clause
+
+SELECT column-list    
+FROM table_name    
+[WHERE condition]    
+[ORDER BY column1, column2, .. columnN] [ASC | DESC];    
+
+Example:geetika=# select * from taazatraining order by address DESC;
+ id |  name   | address | age
+----+---------+---------+-----
+  6 | Geetika | Sitapur |  21
+  1 | Divya   | sitapur |  20
+  4 | Sheetal | Lucknow |  21
+  5 | Deepti  | Lucknow |  21
+  3 | Divya   | Bihar   |  20
+(5 rows)
+
+
+5) Group by-Most importantly, this clause is used to split rows into groups where the GROUP BY condition collects the data across several records and sets the result by one or more columns.
+And every group can apply an aggregate function like COUNT() function is used to get the number of items in the groups, and the SUM() function is used to analyze the sum of items.
+
+Syntax of PostgreSQL group by clause
+
+SELECT column-list    
+FROM table_name    
+WHERE [conditions ]    
+GROUP BY column1, column2....columnN    
+ORDER BY column1, column2....columnN  
+
+Example1:geetika=# select name from taazatraining GROUP BY name;
+  name
+---------
+ Sheetal
+ Deepti
+ Geetika
+ Divya
+(4 rows)
+
+
+Example2:geetika=# select name , SUM(age) from taazatraining GROUP BY name;
+  name   | sum
+---------+-----
+ Sheetal |  21
+ Deepti  |  21
+ Geetika |  21
+ Divya   |  40
+(4 rows)
+
+
+6) having-The having clause is used to specify a search condition for a group or an aggregate. And it is regularly used with the GROUP BY clause to filter groups or    aggregates based on a detailed condition.
+   
+   Syntax of PostgreSQL having clause
+
+   SELECT column1, aggregate_function (column2)  
+   FROM table1, table2    
+   WHERE [ conditions ]    
+   GROUP BY column1, column2    
+   HAVING [ conditions ]    
+   ORDER BY column1, column2
+
+Example:geetika=# select count(address) from taazatraining group by address having address='Lucknow';
+ count
+-------
+     2
+(1 row)
+
+
+7) distinct- the PostgreSQL DISTINCT clause, which is used to delete the matching rows or data from a table and get only the unique records.
+
+   Syntax of the PostgreSQL select distinct clause-
+
+   Select Distinct column1  
+   FROM table_name;  
+
+
+Example1:geetika=# select distinct name from taazatraining;
+  name
+---------
+ Sheetal
+ Deepti
+ Geetika
+ Divya
+(4 rows)
+
+Example2:geetika=# select distinct * from taazatraining;
+ id |  name   | address | age
+----+---------+---------+-----
+  5 | Deepti  | Lucknow |  21
+  4 | Sheetal | Lucknow |  21
+  3 | Divya   | Bihar   |  20
+  6 | Geetika | Sitapur |  21
+  1 | Divya   | sitapur |  20
+(5 rows)
+
+
+
+8) limit-PostgreSQL LIMIT clause, which is used to get a subset of rows produced by a command.
+    Syntax of PostgreSQL LIMIT Clause
+  
+    SELECT select_list   
+    FROM table_name  
+    ORDER BY sort_expression  
+    LIMIT row_count  
+
+Example:geetika=# select name,age from taazatraining ORDER BY name LIMIT 2;
+  name  | age
+--------+-----
+ Deepti |  21
+ Divya  |  20
+(2 rows)
+
+
+9) fetch- PostgreSQL FETCH clause, which is used to repond a portion of rows returned by a particular statement.
+          The various RDBMS (relational database management systems) like H2, MySQL, and HSQLDB use the LIMIT clause extensively.
+          And we have learnt Limit Clause in an earlier section of the PostgreSQL tutorial that it is used to constrain the number of rows returned by a statement.               And the LIMIT clause is not following a SQL-standard.
+          
+          OFFSET start { ROW | ROWS }  
+          FETCH { FIRST | NEXT } [ row_count ] { ROW | ROWS } ONLY  
+
+Example:geetika=# select name from taazatraining order by name fetch first row only;
+  name
+--------
+ Deepti
+(1 row)
+
+
+
+10) * in -The PostgreSQL IN condition is used within the WHERE clause to get those data that matches any data in a list. In other words, we can say that the IN            condition is used to reduce multiple OR conditions.
+       
+       PostgreSQL IN Condition Syntax-
+      
+       Expression IN (SELECT column_name FROM table_name); 
+
+Example:geetika=# select * from taazatraining where name IN('Deepti','Geetika') ORDER BY id DESC;
+ id |  name   | address | age
+----+---------+---------+-----
+  6 | Geetika | Sitapur |  21
+  5 | Deepti  | Lucknow |  21
+(2 rows)
+
+
+11) * like-The PostgreSQL Like condition is used to fetch data from a table where the defined condition satisfies the LIKE condition. The result contains strings,             which are case-sensitive and follow the specified pattern.
+       In other words, we can also say that the Like condition is used to perform pattern matching for identifying the exact outcome.
+     
+       PostgreSQL Like Condition Syntax
+       
+       expression LIKE pattern [ ESCAPE 'escape_character' ]  
+
+Example:geetika=# select * from taazatraining where name LIKE 'Div%';
+ id | name  | address | age
+----+-------+---------+-----
+  1 | Divya | sitapur |  20
+  3 | Divya | Bihar   |  20
+(2 rows)
+  
+
+12) AND OR NOT-In PostgreSQL, the AND & OR Condition can be combined with the INSERT, SELECT, UPDATE and DELETE commands. While combining these conditions, we must be                alert of where to use the parentheses so that the database knows the order to assess every condition.
+              The PostgreSQL AND & OR conditions allow us to test several conditions. And we never forget the order of operation round brackets.
+
+              PostgreSQL AND & OR Condition Syntax:
+              
+               WHERE condition1    
+               AND condition2    
+               ...    
+               OR condition_n; 
+
+Example:geetika=# select * from taazatraining where(address='Bihar' AND name='Divya') OR(age<21);
+ id | name  | address | age
+----+-------+---------+-----
+  1 | Divya | sitapur |  20
+  3 | Divya | Bihar   |  20
+(2 rows)
+
+
+13) BETWEEN-The PostgreSQL Between condition is used to define how to retrieve values from an expression within a specific range. In other words, we can say that the             Between condition is used to match a value against a range of values.
+            The PostgreSQL Between condition is also called as PostgreSQL Between Operator.In PostgreSQL, the Between Condition can be used with the SELECT, INSERT,             UPDATE, and DELETE commands.
+
+             PostgreSQL Between Condition Syntax
+
+             expression BETWEEN value1 AND value2; 
+                         OR
+             expression BETWEEN low AND high;  
+
+Example:geetika=# select * from taazatraining where age between 20 and 21 order by age desc;
+ id |  name   | address | age
+----+---------+---------+-----
+  4 | Sheetal | Lucknow |  21
+  5 | Deepti  | Lucknow |  21
+  6 | Geetika | Sitapur |  21
+  1 | Divya   | sitapur |  20
+  3 | Divya   | Bihar   |  20
+(5 rows)
+    
+
+             
+14)EXIST-the EXISTS condition can combine with the SELECT, INSERT, UPDATE, and DELETE commands. In other words, we can say that the EXISTS condition is used to check          for the presence of any data in a subquery, and returns true if the subquery returns several records.
+
+         It is used to group with a subquery and test the existence of records in a subquery. The PostgreSQL EXISTS condition is a type of Boolean operator which          returns the true or false result. In other words, we can say that:
+
+         If a subquery returns any record, the Exists condition will return a TRUE value, or else, it will return a FALSE
+         Here the TRUE value is always illustrated with numeric value 1, and the FALSE value is denoted as numeric value 0.
+
+          PostgreSQL EXISTS Condition Syntax
+
+          WHERE EXISTS (subquery); 
+
+Example:geetika=# select * from taazatraining tt  where exists (select 1 from taazatraining tt  where tt.id=tt.id and age<21) order by name ;
+ id |  name   | address | age
+----+---------+---------+-----
+  5 | Deepti  | Lucknow |  21
+  1 | Divya   | sitapur |  20
+  3 | Divya   | Bihar   |  20
+  6 | Geetika | Sitapur |  21
+  4 | Sheetal | Lucknow |  21
+(5 rows)
+
+
+15)DATE-To store date values, you use the PostgreSQL DATE data type. PostgreSQL uses 4 bytes to store a date value.When storing a date value, PostgreSQL uses the          yyyy-mm-dd format e.g., 2000-12-31. It also uses this format for inserting data into a date column.
+   If you create a table that has a DATE column and you want to use the current date as the default value for the column, you can use the CURRENT_DATE after the    DEFAULT keyword.
+
+
+
+Example:geetika=# CREATE TABLE employees (
+geetika(# employee_id serial PRIMARY KEY,
+geetika(# first_name VARCHAR (255),
+geetika(# last_name VARCHAR (355),
+geetika(# birth_date DATE NOT NULL,
+geetika(# hire_date DATE NOT NULL
+geetika(# );
+CREATE TABLE
+geetika=# INSERT INTO employees (first_name, last_name, birth_date, hire_date)
+geetika-# VALUES ('Geetika','Shukla','2021-08-09','2000-09-29'),
+geetika-#    ('Sheetal','Kandpal','1998-04-09','2021-09-05'),
+geetika-#    ('Charu','Agarwal','1999-05-24','2021-09-05');
+geetika-#     ('Akriti','Mishra','2000-04-04','2021-09-09');
+INSERT 0 3
+geetika=# select * from employees;
+ employee_id | first_name | last_name | birth_date | hire_date
+-------------+------------+-----------+------------+------------
+           1 | Geetika    | Shukla    | 2021-08-09 | 2000-09-29
+           2 | Sheetal    | Kandpal   | 1998-04-09 | 2021-09-05
+           3 | Charu      | Agarwal   | 1999-05-24 | 2021-09-05
+           4 | Geetika    | Shukla    | 2021-08-09 | 2000-09-29
+           5 | Sheetal    | Kandpal   | 1998-04-09 | 2021-09-05
+           6 | Charu      | Agarwal   | 1999-05-24 | 2021-09-05
+           7 | Akriti     | Mishra    | 2000-04-04 | 2021-09-09
+(7 rows)
+
+To get Current Date:
+geetika=# SELECT NOW()::date;
+    now
+------------
+ 2021-08-25
+(1 row)
+
+
+16)Array Datatype:PostgreSQL allows columns of a table to be defined as variable-length multidimensional arrays. Arrays of any built-in or user-defined base type, enum                   type, or composite type can be created. Arrays of domains are not yet supported.
+
+Example:
+geetika=# CREATE TABLE sal_emp (
+geetika(#     name            text,
+geetika(#     pay_by_quarter  integer[],
+geetika(#     schedule        text[][]
+geetika(# );
+CREATE TABLE
+geetika=# INSERT INTO sal_emp
+geetika-#     VALUES ('Bill',
+geetika(#     '{10000, 10000, 10000, 10000}',
+geetika(#     '{{"meeting", "lunch"}, {"training", "presentation"}}');
+INSERT 0 1
+geetika=# INSERT INTO sal_emp
+geetika-#     VALUES ('Carol',
+geetika(#     '{20000, 25000, 25000, 25000}',
+geetika(#     '{{"breakfast", "consulting"}, {"meeting", "lunch"}}');
+INSERT 0 1
+geetika=# SELECT * FROM sal_emp;
+ name  |      pay_by_quarter       |                 schedule
+-------+---------------------------+-------------------------------------------
+ Bill  | {10000,10000,10000,10000} | {{meeting,lunch},{training,presentation}}
+ Carol | {20000,25000,25000,25000} | {{breakfast,consulting},{meeting,lunch}}
+(2 rows)
+
+
+geetika=# SELECT pay_by_quarter[3] FROM sal_emp;
+ pay_by_quarter
+----------------
+          10000
+          25000
+(2 rows)
+
+
+17)SmallInt-
+
+geetika=# CREATE TABLE Employee_age(
+geetika(#     Empolyee_id SERIAL PRIMARY KEY,
+geetika(#     Employee_first_name VARCHAR (255) NOT NULL,
+geetika(#     Employee_last_name VARCHAR (255) NOT NULL,
+geetika(#    Employee_age SMALLINT NOT NULL CHECK (Employee_age > 0)
+geetika(# );
+CREATE TABLE
+geetika=# INSERT INTO Employee_age(Employee_first_name, Employee_last_name, Employee_age)
+geetika-# VALUES
+geetika-# ('Michael', 'Smith',22),
+geetika-# ('Maria', 'Hernandez', 25),
+geetika-#     ('James', 'Johnson', 34),
+geetika-#     ('Margaret', 'Clark', 40),
+geetika-# ('Catherine','Wilson',26);
+INSERT 0 5
+geetika=# SELECT *
+geetika-# FROM Employee_age;
+ empolyee_id | employee_first_name | employee_last_name | employee_age
+-------------+---------------------+--------------------+--------------
+           1 | Michael             | Smith              |           22
+           2 | Maria               | Hernandez          |           25
+           3 | James               | Johnson            |           34
+           4 | Margaret            | Clark              |           40
+           5 | Catherine           | Wilson             |           26
+(5 rows)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
